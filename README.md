@@ -15,7 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=ffa4b3&height=150&section=header&text=Min222&fontSize=70" />
 
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=mingdue02)](https://velog.io/@rlaalswn0202)
 
