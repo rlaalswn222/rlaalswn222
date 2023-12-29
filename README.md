@@ -19,7 +19,9 @@ Here are some ideas to get you started:
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F798CF&background=FFFFFF00&center=true&vCenter=true&random=false&width=435&lines=THANK+YOU+TO+VISIT+MY+GIT+HOME" alt="Typing SVG">
   </a>
 </p>
-
+<p align="center">
+  <img src="https://github.com/rlaalswn222/rlaalswn222/assets/89075360/a9447cf9-da68-48fc-8cad-dcca5c207038" alt="Ciao, Salut">
+</p>
 <p align="center">
 🚀 저는 대학교 4학년이며, 열심히 공부를 하여 생명공학 데이터를 다루는 프로그래머가 되고 싶습니다. 🧬🧪💻
 </p>
