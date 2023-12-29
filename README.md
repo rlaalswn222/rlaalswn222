@@ -30,14 +30,8 @@ Here are some ideas to get you started:
 <h3 align="center"> 🛠 SNS 🛠 </h3>
 
 <p align="center">
-  <a href="https://velog-readme-stats.vercel.app/api/badge?name=mingdue02">
-    <img src="https://velog-readme-stats.vercel.app/api/badge?name=mingdue02" alt="Velog's GitHub stats"(https://velog.io/@rlaalswn0202/posts)>
-  </a>
-</p>
-
-<p align="center">
   <a href="https://velog.io/@rlaalswn0202/posts">
-    <img src="https://velog-readme-stats.vercel.app/api/badge?name=mingdue02" alt="Velog's GitHub stats">
+    <img src="https://velog-readme-stats.vercel.app/api/badge?name=mingdue02"alt="Velog's GitHub stats">
   </a>
 </p>
 
