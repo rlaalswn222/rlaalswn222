@@ -23,7 +23,7 @@ Here are some ideas to get you started:
   <img src="https://github.com/rlaalswn222/rlaalswn222/assets/89075360/a9447cf9-da68-48fc-8cad-dcca5c207038" alt="Ciao, Salut">
 </p>
 <p align="center">
-🚀 저는 대학교 4학년이고, 열심히 공부를 하여 생명공학 데이터를 다루는 프로그래머가 되고 싶습니다. 🧬🧪💻
+🚀 저는 대학교 4학년이고, 생명공학 데이터를 다루는 프로그래머가 되고 싶습니다. 🧬🧪💻
 </p>
 
 <h3 align="center"> 🛠 SNS 🛠 </h3>
