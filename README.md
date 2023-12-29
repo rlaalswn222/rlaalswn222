@@ -27,7 +27,6 @@ Here are some ideas to get you started:
 </p>
 
 <h2 align="center"> 🛠 Tech Stack 🛠 </h2>
-<h3 align="center"> 🌸Languages🌸 </h3>
 <div align="center">
   <img src="https://img.shields.io/badge/html5-E34F26?style=flat&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/react-61DAFB?style=flat&logo=react&logoColor=white">
