@@ -19,6 +19,7 @@ Here are some ideas to get you started:
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F798CF&background=FFFFFF00&center=true&vCenter=true&random=false&width=435&lines=THANK+YOU+TO+VISIT+MY+GIT+HOME" alt="Typing SVG">
   </a>
 </p>
+
 <p align="center">
   <img src="https://github.com/rlaalswn222/rlaalswn222/assets/89075360/a9447cf9-da68-48fc-8cad-dcca5c207038" alt="Ciao, Salut">
 </p>
@@ -31,6 +32,12 @@ Here are some ideas to get you started:
 <p align="center">
   <a href="https://velog-readme-stats.vercel.app/api/badge?name=mingdue02">
     <img src="https://velog-readme-stats.vercel.app/api/badge?name=mingdue02" alt="Velog's GitHub stats"(https://velog.io/@rlaalswn0202/posts)>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://velog.io/@rlaalswn0202/posts">
+    <img src="https://velog-readme-stats.vercel.app/api/badge?name=mingdue02" alt="Velog's GitHub stats">
   </a>
 </p>
 
