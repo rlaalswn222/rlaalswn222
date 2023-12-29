@@ -17,6 +17,5 @@ Here are some ideas to get you started:
 
 ![header](https://capsule-render.vercel.app/api?type=venom&color=gradient)
 
-<img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=http://www.w3.org/2000/svg&logoColor=E34F26">
-<img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=
-&logoColor=61DAFB">
+<img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=E34F26">
+<img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=61DAFB">
