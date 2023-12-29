@@ -26,3 +26,6 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/pycharm-000000?style=for-the-badge&logo=pycharm&logoColor=white">
 <img src="https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=c++&logoColor=white">
 <img src="https://img.shields.io/badge/figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
+
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=rlaalswn222&theme=dayfox&date_format=%5BY.%5Dn.j&mode=weekly)](https://git.io/streak-stats)
