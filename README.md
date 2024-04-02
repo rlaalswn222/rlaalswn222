@@ -1,19 +1,3 @@
-
-<!--
-**rlaalswn222/rlaalswn222** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 <p align="center">
   <a href="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F798CF&background=FFFFFF00&center=true&vCenter=true&random=false&width=435&lines=THANK+YOU+TO+VISIT+MY+GIT+HOME">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F798CF&background=FFFFFF00&center=true&vCenter=true&random=false&width=435&lines=THANK+YOU+TO+VISIT+MY+GIT+HOME" alt="Typing SVG">
@@ -43,9 +27,20 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/python-3776AB?style=flat&logo=python&logoColor=white">
   <!--<img src="https://img.shields.io/badge/pycharm-000000?style=flat&logo=pycharm&logoColor=white"> --!>
   <img src="https://img.shields.io/badge/c++-00599C?style=flat&logo=cplusplus&logoColor=white">
-  <img src="https://img.shields.io/badge/figma-F24E1E?style=flat&logo=figma&logoColor=white">
   <img src="https://img.shields.io/badge/flutter-02569B?style=flat&logo=flutter&logoColor=white">
+  <img src="https://img.shields.io/badge/csharp-512BD4?style=flat&logo=c#&loColor=white">
+  <img src="https://img.shields.io/badge/swift-F05138?style=flat&logo=swift&loColor=white">
+  
 </p>
+
+<div align="center">
+  <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="icon" width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/swift-icon.svg" alt="icon" width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="50" height="50" />
+</div>
+
 
 
 <!--**[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rlaalswn222)](https://github.com/anuraghazra/github-readme-stats)-->
