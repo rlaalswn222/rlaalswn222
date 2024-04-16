@@ -34,11 +34,7 @@
 </p>
 
 <div align="center">
-  <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="50" height="50" />
-  <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="50" height="50" />
-  <img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="icon" width="50" height="50" />
-  <img src="https://techstack-generator.vercel.app/swift-icon.svg" alt="icon" width="50" height="50" />
-  <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="50" height="50" />
+  <div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="55" height="55" /><img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="55" height="55" /><img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="icon" width="55" height="55" /><img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="55" height="55" /><img src="https://techstack-generator.vercel.app/swift-icon.svg" alt="icon" width="55" height="55" /><img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="55" height="55" /><img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="55" height="55" /></div>
 </div>
 
 
