@@ -11,6 +11,10 @@
 🚀🚀🚀 저는 대학교 4학년이고, 생명공학 데이터를 다루는 프로그래머가 되고 싶습니다. 🧬🧪💻
 </p>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rlaalswn222&show_icons=true&bg_color=fff8eb&title_color=ff69b4&text_color=ff8e99&icon_color=ff8e99">
+</p>
+
 <h3 align="center"> 🛠 SNS 🛠 </h3>
 
 <p align="center">
@@ -30,13 +34,13 @@
   <img src="https://img.shields.io/badge/flutter-02569B?style=flat&logo=flutter&logoColor=white">
   <img src="https://img.shields.io/badge/csharp-512BD4?style=flat&logo=c#&loColor=white">
   <img src="https://img.shields.io/badge/swift-F05138?style=flat&logo=swift&loColor=white">
+  <img src="https://img.shields.io/badge/mysql-4479A1?style=flat&logo=mysql&loColor=white">
   
 </p>
 
 <div align="center">
-  <div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="55" height="55" /><img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="55" height="55" /><img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="icon" width="55" height="55" /><img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="55" height="55" /><img src="https://techstack-generator.vercel.app/swift-icon.svg" alt="icon" width="55" height="55" /><img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="55" height="55" /><img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="55" height="55" /></div>
+  <div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="55" height="55" /><img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="55" height="55" /><img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="icon" width="55" height="55" /><img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="55" height="55" /><img src="https://techstack-generator.vercel.app/swift-icon.svg" alt="icon" width="55" height="55" /><img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="55" height="55" /><img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="55" height="55" /><img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="55" height="55" /></div>
 </div>
-
 
 
 <!--**[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rlaalswn222)](https://github.com/anuraghazra/github-readme-stats)-->
