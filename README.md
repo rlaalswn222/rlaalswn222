@@ -27,6 +27,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/html5-E34F26?style=flat&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/react-61DAFB?style=flat&logo=react&logoColor=white">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white">
   <img src="https://img.shields.io/badge/spring-6DB33F?style=flat&logo=spring&logoColor=white">
   <img src="https://img.shields.io/badge/python-3776AB?style=flat&logo=python&logoColor=white">
   <!--<img src="https://img.shields.io/badge/pycharm-000000?style=flat&logo=pycharm&logoColor=white"> --!>
