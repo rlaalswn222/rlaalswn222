@@ -46,8 +46,3 @@
 
 <!--**[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rlaalswn222)](https://github.com/anuraghazra/github-readme-stats)-->
 
-<p align="center">
-  <a href="https://streak-stats.demolab.com?user=rlaalswn222&theme=dayfox&date_format=%5BY.%5Dn.j&mode=weekly">
-    <img src="https://streak-stats.demolab.com?user=rlaalswn222&theme=dayfox&date_format=%5BY.%5Dn.j&mode=weekly" alt="GitHub Streak">
-  </a>
-</p>
