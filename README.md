@@ -12,8 +12,9 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rlaalswn222&show_icons=true&bg_color=fff8eb&title_color=ff69b4&text_color=ff8e99&icon_color=ff8e99">
+  <img src="https://github-readme-stats.vercel.app/api?username=rlaalswn222&show_icons=true&count_private=true&hide=stars,issues&bg_color=fff8eb&title_color=ff69b4&text_color=ff8e99&icon_color=ff8e99">
 </p>
+
 
 <h3 align="center"> 🛠 SNS 🛠 </h3>
 
@@ -44,5 +45,4 @@
 </div>
 
 
-<!--**[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rlaalswn222)](https://github.com/anuraghazra/github-readme-stats)-->
 
