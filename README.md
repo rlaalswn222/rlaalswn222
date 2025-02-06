@@ -21,6 +21,7 @@
 <p align="center">
   <a href="https://velog.io/@rlaalswn0202/posts">
     <img src="https://velog-readme-stats.vercel.app/api/badge?name=mingdue02"alt="Velog's GitHub stats">
+    
   </a>
 </p>
 
@@ -31,6 +32,7 @@
   <img src="https://img.shields.io/badge/googlecolab-F9AB00?style=flat&logo=googlecolab&logoColor=white">
   <img src="https://img.shields.io/badge/pytorch-EE4C2C?style=flat&logo=pytorch&loColor=white">
   <img src="https://img.shields.io/badge/jupyter-F37626?style=flat&logo=jupyter&loColor=white">
+  <img src="https://img.shields.io/badge/huggingface-FFD21E?style=flat&logo=huggingface&loColor=white">
 </p>
 <p align="center">
   <img src="https://img.shields.io/badge/html5-E34F26?style=flat&logo=html5&logoColor=white"/>
@@ -43,10 +45,7 @@
   <img src="https://img.shields.io/badge/csharp-512BD4?style=flat&logo=c#&loColor=white">
   <img src="https://img.shields.io/badge/swift-F05138?style=flat&logo=swift&loColor=white">
   <img src="https://img.shields.io/badge/mysql-4479A1?style=flat&logo=mysql&loColor=white">
-  <img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat&logo=javascript&loColor=white">
-
-  
-  
+  <img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat&logo=javascript&loColor=white">  
 </p>
 <h4 align="center"> 🛠 DevOps 🛠 </h4>
 <p align="center">
@@ -54,6 +53,10 @@
   <img src="https://img.shields.io/badge/git-F05032?style=flat&logo=git&logoColor=white">
   <img src="https://img.shields.io/badge/virtualbox-2F61B4?style=flat&logo=virtualbox&loColor=white">
   <img src="https://img.shields.io/badge/docker-2496ED?style=flat&logo=docker&loColor=white">
+</p>
+
+<h4 align="center"> 🛠 IDE 🛠 </h4>
+<p align="center">
   <img src="https://img.shields.io/badge/androidstudio-3DDC84?style=flat&logo=androidstudio&loColor=white">
   <img src="https://img.shields.io/badge/pycharm-000000?style=flat&logo=pycharm&loColor=white">
 </p>
