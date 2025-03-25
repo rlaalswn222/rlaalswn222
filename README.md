@@ -15,11 +15,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=rlaalswn222&show_icons=true&count_private=true&hide=issues&bg_color=fff8eb&title_color=ff69b4&text_color=ff8e99&icon_color=ff8e99">
 </p>
 
-
-<p align="center">
-  <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Frlaalswn222&count_bg=%23ED4593&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=%F0%9F%92%97Hello+World&edge_flat=false"/></a>
-</p>
-
 <h3 align="center"> 🛠 SNS 🛠 </h3>
 
 <p align="center">
