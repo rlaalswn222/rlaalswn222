@@ -40,7 +40,7 @@
   <img src="https://img.shields.io/badge/spring-6DB33F?style=flat&logo=spring&logoColor=white">
   <!--<img src="https://img.shields.io/badge/pycharm-000000?style=flat&logo=pycharm&logoColor=white"> --!>
   <img src="https://img.shields.io/badge/c++-00599C?style=flat&logo=cplusplus&logoColor=white">
-  <img src="https://img.shields.io/badge/flutter-02569B?style=flat&logo=flutter&logoColor=white">
+ 
   <img src="https://img.shields.io/badge/csharp-512BD4?style=flat&logo=c#&loColor=white">
   <img src="https://img.shields.io/badge/swift-F05138?style=flat&logo=swift&loColor=white">
   <img src="https://img.shields.io/badge/mysql-4479A1?style=flat&logo=mysql&loColor=white">
@@ -52,12 +52,14 @@
   <img src="https://img.shields.io/badge/git-F05032?style=flat&logo=git&logoColor=white">
   <img src="https://img.shields.io/badge/virtualbox-2F61B4?style=flat&logo=virtualbox&loColor=white">
   <img src="https://img.shields.io/badge/docker-2496ED?style=flat&logo=docker&loColor=white">
+  
 </p>
 
 <h4 align="center"> 🛠 IDE 🛠 </h4>
 <p align="center">
   <img src="https://img.shields.io/badge/androidstudio-3DDC84?style=flat&logo=androidstudio&loColor=white">
   <img src="https://img.shields.io/badge/pycharm-000000?style=flat&logo=pycharm&loColor=white">
+  <img src="https://img.shields.io/badge/flutter-02569B?style=flat&logo=flutter&logoColor=white">
 </p>
 
 
